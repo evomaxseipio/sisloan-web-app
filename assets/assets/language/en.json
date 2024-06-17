@@ -14,6 +14,9 @@
     "email": "Email",
     "address": "Address",
     "password": "Password",
+    "discountAmount" : "Discount Amount",
+    "discountPercentage" : "Discount Percentage",
+    "discount" : "Discount",
 
     "dashboard": "Dashboard",
     "calendar": "Calendar",

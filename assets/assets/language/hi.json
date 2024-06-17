@@ -13,6 +13,10 @@
     "address": "Address",
     "password": "Password",
 
+    "discountAmount": "Discount Amount",
+    "discountPercentage": "Discount Percentage",
+    "discount": "Discount",
+
 
     "dashboard": "डैशबोर्ड",
     "calendar": "पंचांग",

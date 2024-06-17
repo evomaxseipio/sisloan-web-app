@@ -1,6 +1,6 @@
 {
-    "name": "sisloan_app",
-    "short_name": "sisloan_app",
+    "name": "sisloan",
+    "short_name": "sisloan",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
