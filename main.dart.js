@@ -66526,7 +66526,7 @@ $.a6=B.a0
 $.abi=A.y(t.N,t.xd)
 $.abD=A.y(t.C_,t.e)
 $.m_=function(){var s=t.N,r=t.z
-return A.a([A.ao(["name","Apple","price",10.99,"discount",20,"imageUrl","/image/apple.jpg"],s,r),A.ao(["name","Avocado","price",20.99,"discount",10,"imageUrl","/image/avocado.jpg"],s,r),A.ao(["name","Coconut","price",30.99,"discount",30,"imageUrl","/image/coconut.jpg"],s,r),A.ao(["name","Onion","price",40.99,"discount",40,"imageUrl","/image/onion.jpg"],s,r),A.ao(["name","Pinaple","price",50.99,"discount",15,"imageUrl","/image/pinaple.jpg"],s,r),A.ao(["name","Potato","price",60.99,"discount",20,"imageUrl","/image/potato.jpg"],s,r),A.ao(["name","Strawberry","price",70.99,"discount",25,"imageUrl","/image/strawberry.jpg"],s,r),A.ao(["name","Tomato","price",80.99,"discount",20,"imageUrl","/image/tomato.png"],s,r)],t.gG)}()
+return A.a([A.ao(["name","Apple","price",10.99,"discount",20,"imageUrl","image/apple.jpg"],s,r),A.ao(["name","Avocado","price",20.99,"discount",10,"imageUrl","image/avocado.jpg"],s,r),A.ao(["name","Coconut","price",30.99,"discount",30,"imageUrl","image/coconut.jpg"],s,r),A.ao(["name","Onion","price",40.99,"discount",40,"imageUrl","image/onion.jpg"],s,r),A.ao(["name","Pinaple","price",50.99,"discount",15,"imageUrl","image/pinaple.jpg"],s,r),A.ao(["name","Potato","price",60.99,"discount",20,"imageUrl","image/potato.jpg"],s,r),A.ao(["name","Strawberry","price",70.99,"discount",25,"imageUrl","image/strawberry.jpg"],s,r),A.ao(["name","Tomato","price",80.99,"discount",20,"imageUrl","image/tomato.png"],s,r)],t.gG)}()
 $.ah1=A.amQ()
 $.a4a=0
 $.zE=A.a([],A.a5("u<aq1>"))
