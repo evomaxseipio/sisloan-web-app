@@ -1,6 +1,6 @@
 {
-    "name": "sisloan",
-    "short_name": "sisloan",
+    "name": "evo_display_offert",
+    "short_name": "evo_display_offert",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
